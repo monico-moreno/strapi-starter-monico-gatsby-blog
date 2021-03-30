@@ -1,3 +1,7 @@
+# Test by Monico
+
+This repo is based off strapi starter gatsby blog
+
 # Strapi Starter Gatsby Blog
 
 Gatsby starter for creating a blog with Strapi.
