@@ -1,6 +1,6 @@
 # Test by Monico
 
-This repo is based off strapi starter gatsby blog
+This repo is based off [strapi starter gatsby blog](https://github.com/strapi/strapi-starter-gatsby-blog).
 
 # Strapi Starter Gatsby Blog
 
